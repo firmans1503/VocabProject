@@ -1,0 +1,35 @@
+ol{
+    margin-left: -40px;
+    margin-top:  -20px;
+    list-style-position:inside;
+    
+}
+
+li[values="1"]{
+    color: green;
+}
+
+.note{
+    font-size: 20px;
+}
+
+#id-selector-demo{
+    color: rgb(120, 213, 253);
+}
+
+li[values="3"]{
+    color: rgb(194, 115, 115)
+}
+
+li[values="4"]{
+    color: yellow;
+}
+
+li[values="5"]{
+    color: red;
+}
+
+*{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
